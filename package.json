@@ -1,0 +1,38 @@
+{
+  "name": "ok6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandabs/ok6.git"
+  },
+  "author": "Daniel Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandabs/ok6/issues"
+  },
+  "homepage": "https://github.com/dandabs/ok6#readme",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles-preset-stars": "^2.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.6",
+    "@types/react": "18.2.46",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "5.3.3"
+  }
+}

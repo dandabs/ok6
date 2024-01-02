@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+    overflow-x: hidden;
+    background-color: #121212;
+    font-family: 'Red Hat Display', sans-serif;
+    color: rgb(243, 244, 246);
+    font-size: 18px;
+}
